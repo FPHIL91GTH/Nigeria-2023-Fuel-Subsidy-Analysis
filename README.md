@@ -8,20 +8,21 @@ The data used in this analysis is proprietary to the World Bank/NBS and must be 
 
 ## Key Findings
 Methodological: 
-• Successful replication of Okereke et al. (2024)’s QUAIDS framework in R 
+- Successful replication of Okereke et al. (2024)’s QUAIDS framework in R 
 (N=11,646 households; own-price elasticities match within 5%)
+
 Empirical:
-• Fuel subsidies were highly regressive (pro-rich): the richest quintile captured 
+- Fuel subsidies were highly regressive (pro-rich): the richest quintile captured 
 60% of petrol spending within energy budgets, whereas the bottom 50% 
 consumed only 25% of total petrol expenditure
-• Subsidy removal triggered asymmetric energy substitution, with kerosene 
+- Subsidy removal triggered asymmetric energy substitution, with kerosene 
 access collapsing 59% (from 55.2% to 22.5%), forcing many poor households 
 to reduce modern fuel consumption
 
 ## Data
 This analysis uses Nigeria's General Household Survey Panel (GHS-Panel), Wave 2-5 (2012-2024), available from the World Bank Microdata Library: [https://microdata.worldbank.org/](link).
 
-**Note: ** Raw microdata cannot be redistributed. See `data/raw/README.md` for instructions on obtaining the data.
+**Note:** Raw microdata cannot be redistributed. See `data/raw/README.md` for instructions on obtaining the data.
 
 ## Steps for Replication
 1. Clone this repository
@@ -31,7 +32,9 @@ This analysis uses Nigeria's General Household Survey Panel (GHS-Panel), Wave 2-
 
 ## Author
 Francis Phillip
+
 Johns Hopkins University
+
 fphilli8@jh.edu
 
 ## License

@@ -6,6 +6,9 @@ This repository contains replication code for:
 1. **Phillip (2026)** - "Fuel Subsidy Incidence Before Nigeria's 2023 Removal: A QUAIDS Analysis of 2023/24 Household Data." [JScholarship](https://jscholarship.library.jhu.edu/handle/1774.2/71692)
 The data used in this analysis is proprietary to the World Bank/NBS and must be obtained separately from their official sources.
 
+## Status
+**Work in progress.** Core estimation code and outputs available. Full replication package with data documentation forthcoming.
+
 ## Key Findings
 Methodological: 
 - Successful replication of Okereke et al. (2024)’s QUAIDS framework in R 
@@ -31,11 +34,7 @@ This analysis uses Nigeria's General Household Survey Panel (GHS-Panel), Wave 2-
 4. Output table and figures will appear in `output/`
 
 ## Author
-Francis Phillip
-
-Johns Hopkins University
-
-fphilli8@jh.edu
+Francis Phillip | Johns Hopkins University | fphilli8@jh.edu
 
 ## License
 MIT license

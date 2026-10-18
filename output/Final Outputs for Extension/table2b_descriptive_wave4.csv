@@ -1,0 +1,21 @@
+category,variable,obs,mean,sd,min,max
+Expenditure levels (₦),Petrol,4049,29071.202,64213.446,0,1200000
+Expenditure levels (₦),Electricity,4049,9724.926,19451.156,0,288000
+Expenditure levels (₦),Kerosene,4049,8261.403,13141.832,0,201600
+Expenditure levels (₦),Transport,4049,789.558,20790.732,0,1235520
+Expenditure levels (₦),Other energy,4049,14054.249,142586.331,0,9006000
+Expenditure levels (₦),Total energy,4049,61901.338,164529.778,600,9009600
+Within-energy budget shares,Petrol,4049,0.313,0.373,0,1
+Within-energy budget shares,Electricity,4049,0.162,0.256,0,1
+Within-energy budget shares,Kerosene,4049,0.267,0.357,0,1
+Within-energy budget shares,Transport,4049,0.003,0.044,0,1
+Within-energy budget shares,Other energy,4049,0.255,0.35,0,1
+Log prices (Stone normalized),ln(p1) Petrol,4049,-0.473,1.131,-6.908,2.303
+Log prices (Stone normalized),ln(p2) Electricity,4049,-1.676,2.672,-6.908,2.079
+Log prices (Stone normalized),ln(p3) Kerosene,4049,-0.642,1.879,-6.908,1.919
+Log prices (Stone normalized),ln(p4) Transport,4049,-5.93,1.392,-6.908,0
+Log prices (Stone normalized),ln(p5) Other,4049,-0.82,1.932,-6.908,2.398
+Demographics,Household size,4049,5.287,3.289,1,29
+Demographics,Urban,4049,0.377,0.485,0,1
+Demographics,Female-headed,4049,0.196,0.397,0,1
+Demographics,Motorbike ownership,4049,0.348,0.477,0,1

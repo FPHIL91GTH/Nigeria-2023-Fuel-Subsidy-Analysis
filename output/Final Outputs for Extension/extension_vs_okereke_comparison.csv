@@ -1,0 +1,15 @@
+Metric,Okereke et al. (2024),Author's Extension,Change
+Sample size (pooled),"13,496","10,782",-20.1% ✗
+Mean HH size (pooled),5.50,5.60,+1.8% ✓
+Mean total cons. PC (pooled),"₦185,381","₦280,034",+51.1% ✗
+Energy budget share (pooled),5.7%,6.3%,+10.3% ~
+Mean petrol exp. (HH),"₦22,030","₦43,490",+97.4% ✗
+Petrol expenditure (β),−0.046***,0.932***,-2126.5% ✗
+Petrol expenditure² (λ),−0.004***,-0.031***,+666.7% ✗
+Petrol expenditure elasticity,0.748***,1.264***,+69.0% ✗
+Petrol own-price (comp.),−0.571***,-0.347,-39.2% ✗
+Petrol own-price (uncomp.),−0.709***,-0.799,+12.6% ~
+CV Q1: % totcons,1.4%,22.1%,+1480.1% ?
+CV Q1: % petrol,16%,69.3%,+333.2% ?
+CV Q5: % totcons,2.1%,8.7%,+311.9% ?
+CV Q5: % petrol,14%,69.3%,+395.1% ?

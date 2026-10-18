@@ -38,3 +38,4 @@ Johns Hopkins University
 fphilli8@jh.edu
 
 ## License
+MIT license
